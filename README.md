@@ -84,7 +84,7 @@ appendToFile("myFile", "append this") -> if file is not empty : "... append this
 ```
 
 
-##Exercise 7:
+## Exercise 7:
 Now to test all of your functions, make some unit tests !
 
 
