@@ -75,8 +75,8 @@ isFileSame(firstFile.txt, fileWithSameContent.txt) -> true
 Now, let's make an "appendTofile" function which appends a string to a file !<br>
 That function takes 2 parameters:
 
-The file you want to append to.
-The string you want to append to your file.
+- The file you want to append to.
+- The string you want to append to your file.
 
 ```
 appendToFile("myFile", "append this") -> if file empty : "append this"
